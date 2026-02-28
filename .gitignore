@@ -1,0 +1,8 @@
+# SQLite database file - generated artifact, not tracked in source control
+movie_booking_system.db
+movie_booking_system_backup.db
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
